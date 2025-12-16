@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Jake Lemon 👋
 
+I am a programmer interested in game design and how different languages and IDE's can be used to write code
+
+- I am currently working on summative programming projects for the first semester of my second year at university
+- Additionally I am working on the Poker_remake repository
+
+- I am currently learning C++, JavaScript and Unity
+
+- Contact me at jalemon@hotmail.co.uk
 <!--
 **Lemonboy060/Lemonboy060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
