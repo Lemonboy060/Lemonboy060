@@ -1,13 +1,22 @@
 ## Hi, I'm Jake Lemon 👋
 
-I am a programmer interested in game design and how different languages and IDE's can be used to write code
+I'm a programmer with a strong interest in game design and exploring how different programming languages and IDEs can be used to build efficient, creative software.
 
-- I am currently working on summative programming projects for the first semester of my second year at university
-- Additionally I am working on the Poker_remake repository
+Current Studies
+- Second-year Computer Science student
+- Working on  summative programming projects for two modules
 
-- I am currently learning C++, JavaScript and Unity
+Current Projects
+- Working on the Poker_remake repository - Which is a remake for a past assignement for college
 
-- Contact me at jalemon@hotmail.co.uk
+Currently Learning
+- C++
+- Javascript
+- Python
+- The Unity Engine 
+
+Contact
+- Email: Jalemon@hotmail.co.uk
 <!--
 **Lemonboy060/Lemonboy060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
